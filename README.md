@@ -1,2 +1,2 @@
-# Main_Snowy_File
+# Dictionary
 Kamus Penerjemah
